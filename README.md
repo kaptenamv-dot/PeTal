@@ -1,8 +1,6 @@
-# PeTal 🌸 - ابني صفحتك و احكي تونسي
+# PeTal
+![PeTal icon](assets/icon.png)
 
-<p align="center">
-  <img src="assets/icon-1.png" width="120" alt="PeTal icon 1">
-</p>
 
 <p align="center">
   <b>شات AI على ماك، يخدم بلا انترنت، بلا ما تختار الموديل!</b><br>

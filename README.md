@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="PUT_DOWNLOAD_LINK_HERE">⬇️ حمل PeTal الكامل - المجلد كلو</a>
+  <a href="https://huggingface.co/KAPTENHD/PeTal-full">⬇️ حمل PeTal الكامل - المجلد كلو</a>
 </p>
 
 ## 📸 الواجهة

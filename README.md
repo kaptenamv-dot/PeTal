@@ -47,4 +47,4 @@ PeTal 🌸 - مصنوع بحب في تونس
 ⚠️ تخدم كان على Mac! لازم Mac RAM 8GB على الأقل!
 ⚠️ يعمل فقط على Mac! يجب أن يكون Mac بذاكرة 8GB على الأقل!
 ⚠️ Mac only! Requires at least 8GB RAM Mac!
-⚠️ Mac 전용! 최소 8GB RAM Mac 필요!
+⚠️ Mac 전용! 최소 8GB RAM Mac 필요!.

@@ -1,6 +1,6 @@
 # PeTal
 <p align="center">
-  <img src="assets/icon.png" width="40" />
+  <img src="assets/icon.png" width="100" />
 </p>
 
 

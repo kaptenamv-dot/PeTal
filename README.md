@@ -6,6 +6,8 @@
   <img src="assets/icon.png" width="170" />
 </p>
 
+### ⬇️ حمّل PeTal
+[Download PeTal-full.zip](https://huggingface.co/KAPTENHD/PeTal-full/resolve/main/PeTal-full.zip)
 
 <p align="center">
   <b>شات AI على ماك، يخدم بلا انترنت، بلا ما تختار الموديل!</b><br>

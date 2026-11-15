@@ -1,4 +1,7 @@
-# PeTal
+<h1 align="center">PeTal</h1>
+<p align="center">
+  <img src="assets/icon.png" width="120" />
+</p>
 <p align="center">
   <img src="assets/icon.png" width="170" />
 </p>

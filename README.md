@@ -1,4 +1,4 @@
-       # PeTal
+# PeTal
 ![PeTal icon](assets/icon.png)
 
 

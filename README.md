@@ -1,5 +1,7 @@
 # PeTal
-![PeTal icon](assets/icon.png)
+<p align="center">
+  <img src="assets/icon.png" width="40" />
+</p>
 
 
 <p align="center">

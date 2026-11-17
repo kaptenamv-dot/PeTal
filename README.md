@@ -23,20 +23,20 @@ Fix `verified-install.json` in each model folder:
 Note: The path must match exactly where the folder is on your Mac. If your username is different, change it too.
 ----------------------------------------------------------------------------------------------------------------
 
-## Fix after copying to another Mac
+## الإصلاح بعد النسخ إلى جهاز ماك آخر
 
-If you copy `PeTal` to another Mac, PeTal may show `directory mismatch`.
+إذا قمت بنسخ مجلد `PeTal` إلى جهاز ماك آخر، قد تظهر رسالة `directory mismatch`.
 
-Fix `verified-install.json` in each model folder:
+لإصلاح المشكلة، قم بتعديل ملف `verified-install.json` في كل مجلد نموذج:
 
-1. Open `gemma4.gturbo / verified-install.json`
-2. Change `modelDirectoryPath` to your new location, example:
+1. افتح الملف `gemma4.gturbo / verified-install.json`
+2. غيّر قيمة `modelDirectoryPath` إلى المسار الجديد، مثال:
    `/Users/YOUR_USERNAME/Desktop/PeTal/gemma4.gturbo`
-3. Do the same for `gemma4.vision.gturbo / verified-install.json`:
+3. كرر نفس الخطوة للملف الثاني `gemma4.vision.gturbo / verified-install.json`:
    `/Users/YOUR_USERNAME/Desktop/PeTal/gemma4.vision.gturbo`
-4. Save, reopen PeTal, click `Use Existing Model...` and `Check Again`
+4. احفظ الملف، ثم أعد فتح برنامج PeTal، واضغط على `Use Existing Model...` ثم `Check Again`
 
-Note: The path must match exactly where the folder is on your Mac. If your username is different, change it too.
+ملاحظة: يجب أن يتطابق المسار تمامًا مع مكان المجلد على جهازك. وإذا كان اسم المستخدم مختلفًا، يجب تغييره أيضًا.
 ----------------------------------------------------------------------------------------------------------------
 
 <p align="center">

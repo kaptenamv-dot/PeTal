@@ -6,6 +6,23 @@
   <img src="assets/icon.png" width="175" />
 </p>
 
+
+## Fix after copying to another Mac
+
+If you copy `PeTal` to another Mac, PeTal may show `directory mismatch`.
+
+Fix `verified-install.json` in each model folder:
+
+1. Open `gemma4.gturbo / verified-install.json`
+2. Change `modelDirectoryPath` to your new location, example:
+   `/Users/YOUR_USERNAME/Desktop/PeTal/gemma4.gturbo`
+3. Do the same for `gemma4.vision.gturbo / verified-install.json`:
+   `/Users/YOUR_USERNAME/Desktop/PeTal/gemma4.vision.gturbo`
+4. Save, reopen PeTal, click `Use Existing Model...` and `Check Again`
+
+Note: The path must match exactly where the folder is on your Mac. If your username is different, change it too.
+
+
 <p align="center">
   <b>شات AI على ماك، يخدم بلا انترنت، بلا ما تختار الموديل!</b><br>
   انت على اليمين، PeTal على اليسار !
